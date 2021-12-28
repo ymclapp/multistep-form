@@ -5,3 +5,6 @@
 1.  React
 2.  Semantic UI React
 3.  Semantic UI CSS
+
+###  Notes:
+Did not finish due to using classes instead of functions.
